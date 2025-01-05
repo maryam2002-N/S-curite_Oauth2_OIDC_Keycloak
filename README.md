@@ -30,16 +30,18 @@ order-service : Service de gestion des commandes
 5. Configurer un client
 6. Créer des utilisateurs et des rôles
 7. Configurer les tokens
-   <img src="images/6.png" width="600px">
-   <img src="images/7.png" width="600px">
-   <img src="images/8.png" width="600px">
-   <img src="images/9.png" width="600px">
-   <img src="images/10.png" width="600px">
-  <img src="images/11.png" width="600px">
-   <img src="images/12.png" width="600px">
-   <img src="images/13.png" width="600px">
-   <img src="images/14.png" width="600px">
-   <img src="images/15.png" width="600px">
+
+
+<img src="images/6.png" width="600px">
+<img src="images/7.png" width="600px">
+<img src="images/8.png" width="600px">
+<img src="images/9.png" width="600px">
+<img src="images/10.png" width="600px">
+<img src="images/11.png" width="600px">
+<img src="images/12.png" width="600px">
+<img src="images/13.png" width="600px">
+<img src="images/14.png" width="600px">
+<img src="images/15.png" width="600px">
 
 ## 2. Architecture du projet
 Le projet est organisé selon les modules principaux :
@@ -66,6 +68,7 @@ Créer un projet Spring Boot avec les dépendances suivantes :
 - **Lombok**
 - **Keycloak.js**
 - **JUnit 5**
+
   <img src="images/1.png" width="600px">
   <img src="images/2.png" width="600px">
   <img src="images/19.png" width="600px">
